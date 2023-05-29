@@ -4,7 +4,7 @@
 - Functional programming in JS: https://github.com/NedyUdombat/Free-Web-Development-eBooks/blob/master/book/Javascript/JavaScript%20-%20Functional%20Programming%20for%20JavaScript%20Developers.pdf
 - 48 nguyen tac chu chot cua quyen luc: http://thuvien.due.udn.vn:8080/dspace/bitstream/TVDHKT/15576/1/48_nguyen_tac_chu_chot.pdf
 - Don't make me think: https://eng317hannah.wordpress.ncsu.edu/files/2020/01/Krug_Steve_Dont_make_me_think_revisited___a_cz-lib.org_.pdf
-
+- You dont know JS: https://github.com/thanhlmm/You-dont-know-JS
 
 ## Others
 - Can duyen tien dinh: https://drive.google.com/file/d/1XIYzkk9qDX-MxK1vqCh6nKsM2oAVPaeC/view
