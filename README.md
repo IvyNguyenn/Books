@@ -6,6 +6,6 @@
 - Don't make me think: https://eng317hannah.wordpress.ncsu.edu/files/2020/01/Krug_Steve_Dont_make_me_think_revisited___a_cz-lib.org_.pdf
 - You dont know JS: https://github.com/thanhlmm/You-dont-know-JS
 - [Programming Typescript](https://books-library.net/files/books-library.net-10132058Ts3U9.pdf)
-
+- [Think like a programmer](https://drive.google.com/drive/folders/1Ll3GeMM0E2X3OjD8ADnwwq6X-2kErKZM)
 ## Others
 - Can duyen tien dinh: https://drive.google.com/file/d/1XIYzkk9qDX-MxK1vqCh6nKsM2oAVPaeC/view
