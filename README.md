@@ -8,5 +8,6 @@
 - You dont know JS: https://github.com/thanhlmm/You-dont-know-JS
 - [Programming Typescript](https://books-library.net/files/books-library.net-10132058Ts3U9.pdf)
 - [Think like a programmer](https://drive.google.com/drive/folders/1Ll3GeMM0E2X3OjD8ADnwwq6X-2kErKZM)
+- [System Design Interview An Insider’s Guide by Alex Yu.pdf](https://github.com/NguyenCuuNguyen/Books/blob/main/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Yu.pdf)
 ## Others
 - Can duyen tien dinh: https://drive.google.com/file/d/1XIYzkk9qDX-MxK1vqCh6nKsM2oAVPaeC/view
